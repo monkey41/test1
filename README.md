@@ -2,5 +2,4 @@
 my first repo
 this line is edited using git bash
 hi
-<br/> 
 hello
